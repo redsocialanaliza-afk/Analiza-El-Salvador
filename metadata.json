@@ -1,0 +1,8 @@
+{
+  "name": "Copy of ANALIZA Ironman 70.3 Raffle",
+  "description": "An interactive landing page for the ANALIZA Ironman 70.3 raffle competition, featuring an AI recovery assistant powered by Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
